@@ -1,0 +1,12 @@
+body {
+    background-color: #e4f9f5;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    right: 5px;
+    font-size: 5rem;
+}
